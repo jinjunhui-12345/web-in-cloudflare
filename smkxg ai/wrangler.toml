@@ -1,0 +1,3 @@
+name = "smkxg"
+compatibility_date = "2025-12-15"
+main = "index.tsx"
