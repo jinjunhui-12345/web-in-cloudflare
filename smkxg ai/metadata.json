@@ -1,0 +1,5 @@
+{
+  "name": "Life Science Museum Reservations",
+  "description": "A streamlined reservation system for the Life Science Museum, featuring public booking forms, booking retrieval, and a secure administration dashboard for managing visitor records.",
+  "requestFramePermissions": []
+}
